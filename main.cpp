@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+
 using namespace std;
 int MAX_SIZE = 100;
 //to change int to string you would do to_string(x)
